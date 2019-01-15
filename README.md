@@ -35,11 +35,11 @@ Key Achievement:
 •	Developed a website and dashboard application supporting the ICO platform selling $6,000,000 in hard cap.   
 
 ## Education and Training
-University of Valle, Cali, Colombia  
+**University of Valle, Cali, Colombia**  
 Bachelor of Science in Environmental Engineering  
-Coursera  
+**Coursera**  
 IBM Data Science Professional Certificate  
 Machine Learning  
 Deep Learning Specialization  
-Free Code Camp  
+**Free Code Camp**  
 Web Development Certificate  
