@@ -1,27 +1,27 @@
 # Juan Carlos Ruiz
-West New York, NJ 07093• juankboards@gmail.com
-www.linkedin.com/in/juankboards• 201-887-4217 •www.github.com/juankboards
+West New York, NJ 07093• juankboards@gmail.com  
+www.linkedin.com/in/juankboards• 201-887-4217 •www.github.com/juankboards  
  
 ### Web Developer
 Passionate, driven and self-motivated Jr Full Stack Developer with experience on  front-end and back-end.
 
 ## AREAS OF EXPERTISE
-•	Proven ability to gather requirements, create project plans, build solutions, and deploy modern web applications. 
-•	Success identifying, learning, and integrating emergent technologies to provide cutting-edge DevOps support. 
-•	Broad knowledge of the software development field, including experience leveraging advanced technical support to resolve end-user problems. 
-•	Experience designing, planning, coding, building, and configuring software for varying browsers, cloud services, and servers.
+•	Proven ability to gather requirements, create project plans, build solutions, and deploy modern web applications.   
+•	Success identifying, learning, and integrating emergent technologies to provide cutting-edge DevOps support.  
+•	Broad knowledge of the software development field, including experience leveraging advanced technical support to resolve end-user problems.  
+•	Experience designing, planning, coding, building, and configuring software for varying browsers, cloud services, and servers.  
 
 ## TECHNICAL PROFICIENCIES
-Development Environments:	Linux, Docker, Vms, SSH
-Tools:	JavaScript, Python, SQL, MongoDB, GIT, AWS, Rest API, NodeJS, NPM, ES6, Flask
-Methodologies:	Agile, TDD
+Development Environments:	Linux, Docker, Vms, SSH  
+Tools:	JavaScript, Python, SQL, MongoDB, GIT, AWS, Rest API, NodeJS, NPM, ES6, Flask  
+Methodologies:	Agile, TDD  
 
 ## Professional Experience
-Quarteria, New York, NY 
-Blockchain Developer (3/2018 – 8/2018)
-http://quarteria-dapp.herokuapp.com
-Collaborate with clients to gather and define requirements. Leverage python to build a highly secure, non-tampering Neo Smart contract. Build high performance, scalable application on top of Blockchain technologies. Identified, isolated, and resolved bugs. 
-Key Achievement:
+Quarteria, New York, NY  
+Blockchain Developer (3/2018 – 8/2018)  
+http://quarteria-dapp.herokuapp.com  
+Collaborate with clients to gather and define requirements. Leverage python to build a highly secure, non-tampering Neo Smart contract. Build high performance, scalable application on top of Blockchain technologies. Identified, isolated, and resolved bugs.  
+Key Achievement:  
 •	Secured an acquisition deal with a successful real state blockchain company, securing the company over $10,000,000 in private investment sales. 
 Beatpals, New York, NY
 Full Stack Developer (3/2016 – 11/2017)
